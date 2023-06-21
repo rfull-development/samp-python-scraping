@@ -9,7 +9,7 @@ This repository is a sample for scraping with Python.
     ```
 1. Change virtual environment
     ```bash
-    source ./.env/bin/activate
+    source .env/bin/activate
     ```
 1. Install packages
     ```bash
